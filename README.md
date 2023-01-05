@@ -22,8 +22,8 @@ python memory_game.py
 This game requires Python 3 and the Tkinter library.
 
 # Built With
-    [Python3] (https://www.python.org/) - The programming language used
-    [Tkinter] (https://docs.python.org/3/library/tkinter.html) - The library used for the graphical user interface
+[Python3](https://www.python.org/) - The programming language used
+[Tkinter](https://docs.python.org/3/library/tkinter.html) - The library used for the graphical user interface
 
 # Authors
     K.Zamraoui - App Idea - kzamraoui
