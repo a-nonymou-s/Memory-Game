@@ -6,9 +6,9 @@ Getting Started
 To run the game, clone the repository and run the memory_game.py file.
 
 ``
-git clone https://github.com/a-nonymou-s/Memory-Game.git
-cd memory-game
-python memory_game.py
+git clone https://github.com/a-nonymou-s/Memory-Game.git \n
+cd memory-game \n
+python memory_game.py \n
 ``
 
 # Prerequisites
