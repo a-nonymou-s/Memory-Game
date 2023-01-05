@@ -3,7 +3,7 @@
 A simple memory game implemented using the Tkinter library in Python. The game displays a series of numbers to the user, one at a time, and the user has to remember the sequence of numbers and enter it correctly to proceed to the next stage. If the user fails to correctly enter the sequence of numbers after three tries, the game is over. If the user successfully completes eight stages, they win the game.
 Getting Started
 
-To run the game, clone the repository and run the memory_game.py file.
+To run the game, clone the repository and run the mem_game.py file.
 
 ``
 git clone https://github.com/a-nonymou-s/Memory-Game.git
@@ -11,12 +11,12 @@ git clone https://github.com/a-nonymou-s/Memory-Game.git
 <br />
 <br />
 ``
-cd memory-game 
+cd Memory-Game
 ``
 <br />
 <br />
 ``
-python memory_game.py 
+python mem_game.py 
 ``
 
 # Prerequisites
