@@ -34,5 +34,5 @@ This game requires Python 3 and the Tkinter library.
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details. <br />
 This Project is made mainly for the university of HASSAN II \ Psychology Dept
