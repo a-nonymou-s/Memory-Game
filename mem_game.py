@@ -8,7 +8,7 @@ class MemoryGame(tk.Tk):
         super().__init__()
         self.geometry("800x600")
         self.stage = 1
-        self.chances = 3
+        self.chances = 2
         self.numbers_frame = tk.Frame(self, bg="light blue")
         self.numbers_frame.pack(side=tk.TOP, fill=tk.BOTH, expand=True)
         self.numbers_label = tk.Label(self.numbers_frame, text="", font=("Helvetica", 32), bg="light blue")
@@ -32,7 +32,7 @@ class MemoryGame(tk.Tk):
     def display_number(self, index):
         if index < self.stage:
             self.numbers_label.config(text=self.numbers[index])
-            self.after(10000, lambda: self.display_number(index + 1))
+            self.after(1000, lambda: self.display_number(index + 1))
         else:
             self.hide_numbers()
             
