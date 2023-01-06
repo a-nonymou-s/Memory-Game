@@ -1,4 +1,4 @@
-# Memory Game
+# Visual SketchPad Test | Corsi Block
 
 A simple memory game implemented using the Tkinter library in Python. The game displays a series of numbers to the user, one at a time, and the user has to remember the sequence of numbers and enter it correctly to proceed to the next stage. If the user fails to correctly enter the sequence of numbers after three tries, the game is over. If the user successfully completes eight stages, they win the game.
 Getting Started
@@ -35,4 +35,4 @@ This game requires Python 3 and the Tkinter library.
 # License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+This Project is made mainly for the university of HASSAN II \ Psychology Dept
