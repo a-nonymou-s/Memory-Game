@@ -15,7 +15,7 @@ class MemoryGame(tk.Tk):
         self.numbers_label.pack(side=tk.TOP, fill=tk.BOTH, expand=True)
         self.entry = tk.Entry(self, font=("Helvetica", 32))
         self.submit_button = tk.Button(self, text="Submit", font=("Helvetica", 32), command=self.check_answer)
-        self.title("Memory Game")
+        self.title("Visual SketchPad Test | Corsi Blocks")
         self.iconphoto(False, tk.PhotoImage(file='memory.png'))
 
     def show_numbers(self):
