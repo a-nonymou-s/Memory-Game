@@ -6,7 +6,7 @@ Getting Started
 To run the game, clone the repository and run the mem_game.py file.
 
 ``
-git clone https://github.com/a-nonymou-s/Memory-Game.git
+git clone https://github.com/a-nonymou-s/Visual-SketchPad-Test.git
 ``
 <br />
 <br />
