@@ -23,9 +23,9 @@ class MemoryGame(tk.Tk):
         self.submit_button.pack_forget()
         self.numbers = []
         for i in range(self.stage):
-            number = str(random.randint(1, 10))
+            number = str(random.randint(1, 9))
             while number in self.numbers:
-                number = str(random.randint(1, 10))
+                number = str(random.randint(1, 9))
             self.numbers.append(number)
         self.display_number(0)
         
